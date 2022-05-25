@@ -2,13 +2,16 @@
 
 ------------
 
-# Online Video Interview Simulation System
+# 💻 Online Video Interview Simulation System
+
 
 > Python
 > 
 > **Jieun Park, Yurim Kang**
 
+
 * OpenCV, Dlib, Matplotlib
+
 
 * Algorithm
   * Face Detection
