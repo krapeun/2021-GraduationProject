@@ -4,4 +4,11 @@
 
 # Online Video Interview Simulation System
 
-for Python
+* for Python
+
+* OpenCV, Dlib, Matplotlib
+
+* Algorithm
+  * Face Detection
+  * Gaze Tracking
+  * Facial Expression
