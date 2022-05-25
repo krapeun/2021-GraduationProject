@@ -1,5 +1,5 @@
-# 2021-2 Graduation Project
+## 2021-2 Graduation Project
 
-Online Video Interview Simulation System
+# Online Video Interview Simulation System
 
 for Python
