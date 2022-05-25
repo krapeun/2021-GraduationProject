@@ -5,6 +5,7 @@
 # Online Video Interview Simulation System
 
 > Python
+> 
 > **Jieun Park, Yurim Kang**
 
 * OpenCV, Dlib, Matplotlib
