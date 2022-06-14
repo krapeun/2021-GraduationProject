@@ -3,6 +3,7 @@
 # 💻 Online Video Interview Simulation System
 ------------
 ## 온라인 화상 면접 연습 시스템
+👉 [Paper Download](https://github.com/krapeun/2021-GraduationProject/blob/main/(%EA%B0%95%EC%9C%A0%EB%A6%BC%2C%20%EB%B0%95%EC%A7%80%EC%9D%80%2C%20%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98%20%20%EB%B0%95%EC%9E%AC%ED%98%95%EA%B5%90%EC%88%98%EB%8B%98)%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%99%94%EC%83%81%20%EB%A9%B4%EC%A0%91%20%EC%97%B0%EC%8A%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 
 ### 🔎 Why?
   * 언택트 시대에 접어들면서 비대면 채용 제도를 사용하는 기업의 증가하면서
